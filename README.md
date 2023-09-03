@@ -14,4 +14,4 @@ according to the train route. Once the train passes, the track is then configure
 the following scheduled train to pass
 KEYWORDS: Graphical User Interface,Train Schedule,Track Management System,Train
 Management,Rail Network.
-#traintracking#python#timeprediction#deeplearning@traintracking
+#traintracking#python#timeprediction#deeplearning
