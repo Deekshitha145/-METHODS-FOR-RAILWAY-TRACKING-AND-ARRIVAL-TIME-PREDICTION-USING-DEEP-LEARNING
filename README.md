@@ -1,4 +1,4 @@
-# -METHODS-FOR-RAILWAY-TRACKING-AND-ARRIVAL-TIME-PREDICTION-USING-DEEP-LEARNING
+# METHODS-FOR-RAILWAY-TRACKING-AND-ARRIVAL-TIME-PREDICTION-USING-DEEP-LEARNING
 The railway track management system is software that supports the railway track
 system services as per train schedules. The project is intended to honest GUI that
 permits monitoring and controlling various trains on the network. It has happened
